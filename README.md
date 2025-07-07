@@ -17,6 +17,4 @@ This project analyzes historical weather data and predicts future temperature tr
 - seaborn
 - scikit-learn
 
-## 📁 Dataset
 
-The dataset (`weather.csv`) should contain at least 15+ rows like this:
